@@ -1,4 +1,4 @@
-# How Long Can You Run?
+# Cycling x Wind Resistance
 	
 Every cyclist who has ever pedaled into a stiff headwind knows about wind resistance. It's exhausting! In order to move forward, the cyclist must push through the mass of air in front of her. This takes energy.
 
