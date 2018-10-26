@@ -1,9 +1,0 @@
-,duration,entry_mode,has_path,source,start_time,total_calories,total_distance,tracking_mode,type,uri,utc_offset,month,month_index,year
-567,24.63,API,True,RunKeeper,"Wed, 4 Nov 2015 06:07:28",238,3272.86,outdoor,Running,/fitnessActivities/695107893,-2,Nov,11,2015
-568,23.17,API,True,RunKeeper,"Tue, 27 Oct 2015 05:57:52",357,4675.9,outdoor,Running,/fitnessActivities/682306939,-2,0,10,2015
-569,22.63,API,True,RunKeeper,"Fri, 25 Sep 2015 06:03:30",365,4683.07,outdoor,Running,/fitnessActivities/662964078,-3,Sep,9,2015
-570,23.03,API,True,RunKeeper,"Tue, 22 Sep 2015 06:05:45",361,4655.55,outdoor,Running,/fitnessActivities/660961272,-3,Sep,9,2015
-571,24.31,API,True,RunKeeper,"Mon, 25 May 2015 05:40:07",362,4703.84,outdoor,Running,/fitnessActivities/577596948,-3,May,5,2015
-572,23.62,API,True,RunKeeper,"Thu, 30 Apr 2015 05:56:58",360,4672.89,outdoor,Running,/fitnessActivities/559747998,-3,Apr,4,2015
-573,23.29,API,True,RunKeeper,"Wed, 22 Apr 2015 05:53:43",520,4690.98,outdoor,Running,/fitnessActivities/554014359,-3,Apr,4,2015
-574,25.0,Web,True,RunKeeper,"Mon, 20 Apr 2015 05:40:00",343,4498.64,outdoor,Running,/fitnessActivities/553679343,-3,Apr,4,2015
