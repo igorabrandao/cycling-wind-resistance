@@ -10,7 +10,7 @@ The idea of this project is to show visually how the wind resistance can impact 
 * Débora Azevedo ( deboraazevedoo@gmail.com )
 * Eliseu Jayro ( eliseujayro@gmail.com )
 * Igor Brandão ( igorabrandao@gmail.com )
-* Francisco de Paiva
+* Francisco de Paiva ( pvnetto1@gmail.com )
 
 
 ## The dataset:
