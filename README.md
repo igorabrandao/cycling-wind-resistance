@@ -15,3 +15,18 @@ The idea of this project is to show visually how the wind resistance can impact 
 
 ## The dataset:
 The dataset consists in a workout history (CSV file) and a Collab Notebook to perform the data analysis
+
+### How to use ###
+
+1. Download the *py-exercise-dashboard.ipynb*, *dataSource.xlsx* files and put it in the same folder. 
+2. After that, use Jupyter notebook tool and access the directory with the files. Enjoy yourself! :)
+
+### Important ###
+
+To run the heat map, it's necessary to run the following command:
+
+```
+jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000
+```
+
+This command avoid aborting the heatmap processing.
