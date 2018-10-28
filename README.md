@@ -34,6 +34,6 @@ This command avoid aborting the heatmap processing, which can happen due to the 
 
 ## Activities definition ##
 
-Work on the WindyAPI (consume data from the web API and relate it to the Folium maps with the location and coordenates given): Francisco de Paiva and Igor Brandão
-Ideation and maps creation (think of ways to relate the data into significant aspects and use the data from the dataset, together with Folium, to create the maps): Débora Azevedo and Igor Brandão
-Desing of the images, writing and text review (create a context, a story that has a relation to the problematic brought in  this work and review writing): Eliseu Jayro and Débora Azevedo
+* Work on the WindyAPI (consume data from the web API and relate it to the Folium maps with the location and coordenates given): Francisco de Paiva and Igor Brandão
+* Ideation and maps creation (think of ways to relate the data into significant aspects and use the data from the dataset, together with Folium, to create the maps): Débora Azevedo and Igor Brandão
+* Desing of the images, writing and text review (create a context, a story that has a relation to the problematic brought in  this work and review writing): Eliseu Jayro and Débora Azevedo
