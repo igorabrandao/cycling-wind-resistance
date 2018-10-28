@@ -1,6 +1,6 @@
 # Cycling x Wind Resistance
 	
-Every cyclist who has ever pedaled into a stiff headwind knows about wind resistance. It's exhausting! In order to move forward, the cyclist must push through the mass of air in front of her. This takes energy.
+Every cyclist who has ever pedaled into a stiff headwind knows about wind resistance. It's exhausting! In order to move forward, the cyclist must push through the mass of air in front of him/her. And this takes energy.
 
 The idea of this project is to show visually how the wind resistance can impact the cycling activity.
 
@@ -14,7 +14,7 @@ The idea of this project is to show visually how the wind resistance can impact 
 
 
 ## The dataset:
-The dataset consists in a workout history (CSV file) and a Collab Notebook to perform the data analysis
+The dataset consists in a workout history (CSV file) and a Jupyter Notebook to perform the data analysis
 
 ### How to use ###
 
@@ -29,4 +29,4 @@ To run the heat map, it's necessary to run the following command:
 jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000
 ```
 
-This command avoid aborting the heatmap processing.
+This command avoid aborting the heatmap processing, which can happen due to the huge amount of coordenates needed to create the maps.
