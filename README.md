@@ -7,14 +7,15 @@ The idea of this project is to show visually how the wind resistance can impact 
 
 ## Team:
 
-* Débora Azevedo ( deboraazevedoo@gmail.com )
-* Eliseu Jayro ( eliseujayro@gmail.com )
-* Igor Brandão ( igorabrandao@gmail.com )
-* Francisco de Paiva ( pvnetto1@gmail.com )
+* Débora Karoline Silva de Azevedo ( deboraazevedoo@gmail.com )
+* Eliseu Jayro de Souza Medeiros ( eliseujayro@gmail.com )
+* Francisco de Paiva Marques Netto ( pvnetto1@gmail.com )
+* Igor Augusto Brandão ( igorabrandao@gmail.com )
+
 
 
 ## The dataset:
-The dataset consists in a workout history (CSV file) and a Jupyter Notebook to perform the data analysis
+The dataset consists in a workout history (CSV file which includes the coordinates of the routes of the physical activities done in the given period of time) and a Jupyter Notebook with all the instructions and libraries needed to perform the data analysis.
 
 ### How to use ###
 
@@ -30,3 +31,9 @@ jupyter notebook --NotebookApp.iopub_data_rate_limit=10000000
 ```
 
 This command avoid aborting the heatmap processing, which can happen due to the huge amount of coordenates needed to create the maps.
+
+## Activities definition ##
+
+Work on the WindyAPI (consume data from the web API and relate it to the Folium maps with the location and coordenates given): Francisco de Paiva and Igor Brandão
+Ideation and maps creation (think of ways to relate the data into significant aspects and use the data from the dataset, together with Folium, to create the maps): Débora Azevedo and Igor Brandão
+Desing of the images, writing and text review (create a context, a story that has a relation to the problematic brought in  this work and review writing): Eliseu Jayro and Débora Azevedo
