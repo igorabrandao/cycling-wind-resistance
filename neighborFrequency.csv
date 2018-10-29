@@ -1,8 +1,4800 @@
-,district,count
-0,,2084
-1,Alecrim,343
-2,Barro Vermelho,21
-3,Candelária,572
-4,Dix-Sept Rosado,12
-5,Lagoa Nova,1539
-6,Lagoa Seca,28
+id,district,count
+0,Alecrim,32
+0,Alecrim,17
+1,Lagoa Nova,15
+0,,11
+1,Alecrim,9
+2,Dix-Sept Rosado,3
+3,Lagoa Nova,9
+0,Alecrim,32
+0,,4
+1,Alecrim,15
+2,Lagoa Nova,13
+0,,4
+1,Alecrim,15
+2,Dix-Sept Rosado,7
+3,Lagoa Nova,6
+0,Alecrim,25
+1,Candelária,2
+2,Dix-Sept Rosado,4
+3,Lagoa Nova,1
+0,,32
+0,,16
+1,Alecrim,3
+2,Candelária,12
+3,Lagoa Nova,1
+0,Alecrim,4
+1,Candelária,27
+2,Lagoa Nova,1
+0,,20
+1,Alecrim,4
+2,Candelária,7
+3,Lagoa Nova,1
+0,,24
+1,Alecrim,1
+2,Candelária,6
+3,Lagoa Nova,1
+0,Alecrim,3
+1,Candelária,29
+0,,12
+1,Candelária,19
+2,Lagoa Nova,1
+0,,32
+0,Alecrim,4
+1,Candelária,17
+2,Lagoa Nova,11
+0,,4
+1,Candelária,12
+2,Lagoa Nova,16
+0,,32
+0,,5
+1,Candelária,11
+2,Lagoa Nova,16
+0,Alecrim,2
+1,Candelária,10
+2,Lagoa Nova,20
+0,,31
+1,Lagoa Nova,1
+0,,7
+1,Alecrim,2
+2,Candelária,10
+3,Lagoa Nova,13
+0,Alecrim,2
+1,Candelária,6
+2,Lagoa Nova,24
+0,,29
+1,Candelária,2
+2,Lagoa Nova,1
+0,,15
+1,Alecrim,2
+2,Candelária,6
+3,Dix-Sept Rosado,1
+4,Lagoa Nova,8
+0,Candelária,6
+1,Lagoa Nova,26
+0,,21
+1,Alecrim,2
+2,Candelária,2
+3,Lagoa Nova,7
+0,,19
+1,Candelária,2
+2,Lagoa Nova,11
+0,Alecrim,1
+1,Candelária,2
+2,Lagoa Nova,29
+0,,17
+1,Lagoa Nova,15
+0,,18
+1,Candelária,3
+2,Lagoa Nova,11
+0,Alecrim,2
+1,Candelária,2
+2,Lagoa Nova,28
+0,,18
+1,Candelária,3
+2,Lagoa Nova,11
+0,,15
+1,Candelária,1
+2,Lagoa Nova,16
+0,Alecrim,1
+1,Candelária,4
+2,Lagoa Nova,27
+0,,21
+1,Candelária,2
+2,Lagoa Nova,9
+0,,20
+1,Candelária,3
+2,Lagoa Nova,9
+0,Alecrim,3
+1,Candelária,4
+2,Lagoa Nova,25
+0,,16
+1,Alecrim,1
+2,Candelária,1
+3,Lagoa Nova,14
+0,,20
+1,Candelária,3
+2,Lagoa Nova,9
+0,Alecrim,2
+1,Candelária,2
+2,Lagoa Nova,28
+0,,16
+1,Candelária,2
+2,Lagoa Nova,14
+0,,15
+1,Candelária,2
+2,Lagoa Nova,15
+0,Alecrim,1
+1,Candelária,3
+2,Lagoa Nova,28
+0,,21
+1,Candelária,2
+2,Lagoa Nova,9
+0,,8
+1,Candelária,2
+2,Lagoa Nova,22
+0,Alecrim,1
+1,Candelária,3
+2,Lagoa Nova,28
+0,,28
+1,Lagoa Nova,4
+0,,4
+1,Alecrim,1
+2,Candelária,5
+3,Lagoa Nova,22
+0,Alecrim,3
+1,Candelária,8
+2,Lagoa Nova,21
+0,,30
+1,Candelária,1
+2,Lagoa Nova,1
+0,Alecrim,2
+1,Candelária,1
+2,Lagoa Nova,29
+0,,6
+1,Candelária,7
+2,Lagoa Nova,19
+0,,29
+1,Lagoa Nova,3
+0,Candelária,4
+1,Lagoa Nova,28
+0,,7
+1,Alecrim,2
+2,Lagoa Nova,23
+0,,32
+0,Alecrim,2
+1,Candelária,14
+2,Lagoa Nova,16
+0,,4
+1,Alecrim,3
+2,Candelária,9
+3,Lagoa Nova,16
+0,,32
+0,Alecrim,3
+1,Candelária,9
+2,Lagoa Nova,20
+0,,4
+1,Alecrim,1
+2,Candelária,13
+3,Lagoa Nova,14
+0,,32
+0,,3
+1,Alecrim,3
+2,Candelária,12
+3,Lagoa Nova,14
+0,,1
+1,Alecrim,2
+2,Candelária,12
+3,Lagoa Nova,17
+0,,32
+0,,11
+1,Alecrim,1
+2,Candelária,12
+3,Lagoa Nova,8
+0,Alecrim,2
+1,Candelária,17
+2,Lagoa Nova,13
+0,,25
+1,Candelária,4
+2,Lagoa Nova,3
+0,,19
+1,Alecrim,1
+2,Candelária,8
+3,Lagoa Nova,4
+0,Alecrim,2
+1,Candelária,19
+2,Lagoa Nova,11
+0,,17
+1,Candelária,12
+2,Lagoa Nova,3
+0,,29
+1,Candelária,2
+2,Lagoa Nova,1
+0,Alecrim,3
+1,Candelária,19
+2,Lagoa Nova,10
+0,,7
+1,Alecrim,3
+2,Candelária,17
+3,Lagoa Nova,5
+0,,32
+0,,7
+1,Alecrim,3
+2,Candelária,15
+3,Lagoa Nova,7
+0,Alecrim,5
+1,Candelária,19
+2,Lagoa Nova,8
+0,,29
+1,Alecrim,2
+2,Candelária,1
+0,,16
+1,Alecrim,4
+2,Candelária,9
+3,Lagoa Nova,3
+0,Alecrim,3
+1,Candelária,17
+2,Lagoa Nova,12
+0,,20
+1,Alecrim,1
+2,Candelária,8
+3,Lagoa Nova,3
+0,,25
+1,Alecrim,1
+2,Candelária,4
+3,Lagoa Nova,2
+0,Alecrim,6
+1,Candelária,20
+2,Lagoa Nova,6
+0,,11
+1,Alecrim,4
+2,Candelária,11
+3,Lagoa Nova,6
+0,,26
+1,Candelária,6
+0,Alecrim,7
+1,Candelária,15
+2,Lagoa Nova,10
+0,,10
+1,Alecrim,3
+2,Candelária,12
+3,Lagoa Nova,7
+0,,26
+1,Alecrim,1
+2,Lagoa Nova,5
+0,Alecrim,6
+1,Candelária,10
+2,Lagoa Nova,16
+0,,10
+1,Alecrim,5
+2,Candelária,2
+3,Lagoa Nova,15
+0,,32
+0,,1
+1,Alecrim,4
+2,Candelária,5
+3,Lagoa Nova,22
+0,,3
+1,Alecrim,7
+2,Candelária,3
+3,Lagoa Nova,19
+0,,32
+0,Alecrim,8
+1,Candelária,2
+2,Lagoa Nova,22
+0,,4
+1,Alecrim,4
+2,Candelária,2
+3,Lagoa Nova,22
+0,,32
+0,,2
+1,Alecrim,4
+2,Candelária,3
+3,Lagoa Nova,23
+0,,2
+1,Alecrim,6
+2,Candelária,4
+3,Lagoa Nova,20
+0,,32
+0,,7
+1,Alecrim,6
+2,Candelária,1
+3,Lagoa Nova,18
+0,Alecrim,5
+1,Candelária,5
+2,Lagoa Nova,22
+0,,24
+1,Lagoa Nova,8
+0,Alecrim,5
+1,Candelária,3
+2,Lagoa Nova,24
+0,,9
+1,Alecrim,4
+2,Candelária,3
+3,Lagoa Nova,16
+0,,28
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Lagoa Nova,2
+0,Alecrim,6
+1,Barro Vermelho,1
+2,Candelária,5
+3,Lagoa Nova,20
+0,,8
+1,Alecrim,4
+2,Barro Vermelho,3
+3,Lagoa Nova,17
+0,,32
+0,,4
+1,Alecrim,6
+2,Barro Vermelho,1
+3,Candelária,2
+4,Lagoa Nova,18
+5,Lagoa Seca,1
+0,Alecrim,6
+1,Barro Vermelho,2
+2,Candelária,4
+3,Lagoa Nova,20
+0,,32
+0,,8
+1,Alecrim,5
+2,Barro Vermelho,1
+3,Candelária,1
+4,Lagoa Nova,16
+5,Lagoa Seca,1
+0,Alecrim,5
+1,Barro Vermelho,1
+2,Lagoa Nova,26
+0,,28
+1,Alecrim,1
+2,Lagoa Nova,3
+0,,13
+1,Alecrim,4
+2,Barro Vermelho,1
+3,Candelária,2
+4,Lagoa Nova,12
+0,Alecrim,4
+1,Barro Vermelho,1
+2,Candelária,3
+3,Lagoa Nova,23
+4,Lagoa Seca,1
+0,,23
+1,Alecrim,1
+2,Candelária,1
+3,Lagoa Nova,7
+0,,16
+1,Alecrim,2
+2,Barro Vermelho,1
+3,Candelária,3
+4,Lagoa Nova,10
+0,Alecrim,6
+1,Barro Vermelho,1
+2,Candelária,1
+3,Lagoa Nova,23
+4,Lagoa Seca,1
+0,,20
+1,Alecrim,1
+2,Candelária,1
+3,Lagoa Nova,10
+0,,19
+1,Alecrim,1
+2,Lagoa Nova,12
+0,Alecrim,5
+1,Barro Vermelho,1
+2,Candelária,3
+3,Lagoa Nova,23
+0,,17
+1,Alecrim,2
+2,Barro Vermelho,1
+3,Candelária,1
+4,Lagoa Nova,11
+0,,15
+1,Alecrim,2
+2,Candelária,1
+3,Lagoa Nova,14
+0,Alecrim,5
+1,Barro Vermelho,1
+2,Candelária,2
+3,Lagoa Nova,24
+0,,21
+1,Alecrim,2
+2,Candelária,1
+3,Lagoa Nova,8
+0,,18
+1,Alecrim,3
+2,Candelária,1
+3,Lagoa Nova,10
+0,Alecrim,5
+1,Barro Vermelho,1
+2,Candelária,1
+3,Lagoa Nova,25
+0,,18
+1,Alecrim,3
+2,Barro Vermelho,1
+3,Candelária,2
+4,Lagoa Nova,8
+0,,16
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Candelária,1
+4,Lagoa Nova,13
+0,Alecrim,7
+1,Barro Vermelho,1
+2,Candelária,1
+3,Lagoa Nova,23
+0,,20
+1,Alecrim,2
+2,Candelária,1
+3,Lagoa Nova,9
+0,,14
+1,Alecrim,2
+2,Lagoa Nova,16
+0,Alecrim,3
+1,Barro Vermelho,1
+2,Candelária,3
+3,Lagoa Nova,25
+0,,22
+1,Alecrim,2
+2,Lagoa Nova,8
+0,,14
+1,Alecrim,1
+2,Candelária,2
+3,Lagoa Nova,14
+4,Lagoa Seca,1
+0,Alecrim,2
+1,Barro Vermelho,1
+2,Candelária,2
+3,Lagoa Nova,24
+4,Lagoa Seca,3
+0,,22
+1,Alecrim,2
+2,Barro Vermelho,1
+3,Lagoa Nova,5
+4,Lagoa Seca,2
+0,,9
+1,Alecrim,2
+2,Candelária,2
+3,Lagoa Nova,14
+4,Lagoa Seca,5
+0,Alecrim,4
+1,Barro Vermelho,1
+2,Candelária,2
+3,Lagoa Nova,18
+4,Lagoa Seca,7
+0,,22
+1,Lagoa Nova,10
+0,Alecrim,4
+1,Candelária,4
+2,Lagoa Nova,17
+3,Lagoa Seca,7
+0,,9
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Lagoa Nova,18
+4,Lagoa Seca,3
+0,,20
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Lagoa Nova,9
+4,Lagoa Seca,1
+0,Alecrim,1
+1,Barro Vermelho,1
+2,Candelária,3
+3,Lagoa Nova,21
+4,Lagoa Seca,6
+0,,16
+1,Alecrim,1
+2,Candelária,1
+3,Lagoa Nova,14
+0,,21
+1,Lagoa Nova,9
+2,Lagoa Seca,2
+0,Alecrim,1
+1,Candelária,2
+2,Lagoa Nova,22
+3,Lagoa Seca,7
+0,,15
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Candelária,2
+4,Lagoa Nova,9
+5,Lagoa Seca,4
+0,,29
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Lagoa Seca,1
+0,Alecrim,2
+1,Barro Vermelho,2
+2,Candelária,1
+3,Lagoa Nova,21
+4,Lagoa Seca,6
+0,,7
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Candelária,3
+4,Lagoa Nova,18
+5,Lagoa Seca,2
+0,,32
+0,,8
+1,Alecrim,1
+2,Candelária,3
+3,Lagoa Nova,14
+4,Lagoa Seca,6
+0,Alecrim,2
+1,Barro Vermelho,2
+2,Candelária,2
+3,Lagoa Nova,23
+4,Lagoa Seca,3
+0,,28
+1,Lagoa Nova,3
+2,Lagoa Seca,1
+0,,20
+1,Alecrim,3
+2,Lagoa Nova,7
+3,Lagoa Seca,2
+0,Barro Vermelho,2
+1,Candelária,1
+2,Lagoa Nova,24
+3,Lagoa Seca,5
+0,,16
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Candelária,1
+4,Lagoa Nova,9
+5,Lagoa Seca,4
+0,,32
+0,,4
+1,Alecrim,1
+2,Candelária,2
+3,Lagoa Nova,18
+4,Lagoa Seca,7
+0,Barro Vermelho,2
+1,Candelária,4
+2,Lagoa Nova,20
+3,Lagoa Seca,6
+0,,32
+0,,15
+1,Alecrim,1
+2,Barro Vermelho,1
+3,Candelária,3
+4,Lagoa Nova,12
+0,Alecrim,1
+1,Barro Vermelho,3
+2,Lagoa Nova,20
+3,Lagoa Seca,8
+0,,21
+1,Candelária,3
+2,Lagoa Nova,8
+0,,29
+1,Lagoa Nova,2
+2,Lagoa Seca,1
+0,Alecrim,1
+1,Barro Vermelho,3
+2,Candelária,3
+3,Lagoa Nova,21
+4,Lagoa Seca,4
+0,,7
+1,Barro Vermelho,3
+2,Candelária,1
+3,Lagoa Nova,17
+4,Lagoa Seca,4
+0,,32
+0,,8
+1,Alecrim,1
+2,Barro Vermelho,2
+3,Candelária,2
+4,Lagoa Nova,13
+5,Lagoa Seca,6
+0,Alecrim,2
+1,Barro Vermelho,2
+2,Candelária,1
+3,Lagoa Nova,24
+4,Lagoa Seca,3
+0,,28
+1,Lagoa Nova,4
+0,,21
+1,Lagoa Nova,9
+2,Lagoa Seca,2
+0,Barro Vermelho,1
+1,Candelária,2
+2,Lagoa Nova,22
+3,Lagoa Seca,7
+0,,15
+1,Barro Vermelho,1
+2,Candelária,2
+3,Lagoa Nova,12
+4,Lagoa Seca,2
+0,,32
+0,Barro Vermelho,1
+1,Candelária,3
+2,Lagoa Nova,26
+3,Lagoa Seca,2
+0,,4
+1,Barro Vermelho,1
+2,Lagoa Nova,25
+3,Lagoa Seca,2
+0,,32
+0,,9
+1,Barro Vermelho,1
+2,Candelária,1
+3,Lagoa Nova,20
+4,Lagoa Seca,1
+0,Barro Vermelho,1
+1,Candelária,2
+2,Lagoa Nova,26
+3,Lagoa Seca,3
+0,,27
+1,Lagoa Nova,5
+0,,22
+1,Candelária,2
+2,Lagoa Nova,8
+0,Candelária,4
+1,Lagoa Nova,24
+2,Lagoa Seca,4
+0,,14
+1,Barro Vermelho,1
+2,Candelária,1
+3,Lagoa Nova,14
+4,Lagoa Seca,2
+0,,32
+0,Candelária,2
+1,Lagoa Nova,25
+2,Lagoa Seca,5
+0,,4
+1,Barro Vermelho,1
+2,Lagoa Nova,26
+3,Lagoa Seca,1
+0,,32
+0,,12
+1,Candelária,1
+2,Lagoa Nova,19
+0,Lagoa Nova,25
+1,Lagoa Seca,7
+0,,24
+1,Barro Vermelho,2
+2,Lagoa Nova,5
+3,Lagoa Seca,1
+0,,17
+1,Lagoa Nova,11
+2,Lagoa Seca,4
+0,Barro Vermelho,2
+1,Lagoa Nova,24
+2,Lagoa Seca,6
+0,,19
+1,Barro Vermelho,1
+2,Lagoa Nova,9
+3,Lagoa Seca,3
+0,,27
+1,Lagoa Nova,4
+2,Lagoa Seca,1
+0,Barro Vermelho,2
+1,Lagoa Nova,25
+2,Lagoa Seca,4
+3,Redinha,1
+0,,9
+1,Lagoa Nova,19
+2,Lagoa Seca,4
+0,,32
+0,,3
+1,Barro Vermelho,1
+2,Lagoa Nova,24
+3,Lagoa Seca,3
+4,Redinha,1
+0,,1
+1,Barro Vermelho,1
+2,Lagoa Nova,28
+3,Lagoa Seca,2
+0,,32
+0,,17
+1,Lagoa Nova,13
+2,Lagoa Seca,1
+3,Redinha,1
+0,Barro Vermelho,2
+1,Lagoa Nova,28
+2,Lagoa Seca,1
+3,Redinha,1
+0,,19
+1,Lagoa Nova,10
+2,Lagoa Seca,2
+3,Redinha,1
+0,,31
+1,Lagoa Nova,1
+0,Barro Vermelho,1
+1,Lagoa Nova,27
+2,Lagoa Seca,3
+3,Redinha,1
+0,,5
+1,Lagoa Nova,27
+0,,32
+0,,11
+1,Barro Vermelho,2
+2,Lagoa Nova,17
+3,Redinha,2
+0,Barro Vermelho,1
+1,Lagoa Nova,29
+2,Lagoa Seca,2
+0,,25
+1,Lagoa Nova,6
+2,Redinha,1
+0,,16
+1,Barro Vermelho,1
+2,Lagoa Nova,12
+3,Lagoa Seca,1
+4,Redinha,2
+0,Barro Vermelho,1
+1,Lagoa Nova,27
+2,Lagoa Seca,3
+3,Redinha,1
+0,,20
+1,Barro Vermelho,2
+2,Lagoa Nova,8
+3,Lagoa Seca,1
+4,Redinha,1
+0,,28
+1,Lagoa Nova,3
+2,Lagoa Seca,1
+0,Barro Vermelho,2
+1,Lagoa Nova,29
+2,Lagoa Seca,1
+0,,8
+1,Barro Vermelho,1
+2,Lagoa Nova,18
+3,Lagoa Seca,3
+4,Redinha,2
+0,,32
+0,,7
+1,Barro Vermelho,2
+2,Lagoa Nova,22
+3,Lagoa Seca,1
+0,Barro Vermelho,1
+1,Lagoa Nova,26
+2,Lagoa Seca,3
+3,Redinha,2
+0,,29
+1,Lagoa Nova,2
+2,Lagoa Seca,1
+0,,20
+1,Lagoa Nova,10
+2,Lagoa Seca,1
+3,Redinha,1
+0,Barro Vermelho,2
+1,Lagoa Nova,28
+2,Lagoa Seca,2
+0,,16
+1,Barro Vermelho,1
+2,Lagoa Nova,13
+3,Lagoa Seca,1
+4,Redinha,1
+0,,32
+0,,1
+1,Barro Vermelho,1
+2,Lagoa Nova,27
+3,Lagoa Seca,1
+4,Redinha,2
+0,,3
+1,Barro Vermelho,1
+2,Lagoa Nova,23
+3,Lagoa Seca,4
+4,Redinha,1
+0,,32
+0,,13
+1,Barro Vermelho,2
+2,Lagoa Nova,17
+0,Barro Vermelho,1
+1,Lagoa Nova,25
+2,Lagoa Seca,5
+3,Redinha,1
+0,,23
+1,Lagoa Nova,9
+0,,25
+1,Lagoa Nova,6
+2,Lagoa Seca,1
+0,Barro Vermelho,2
+1,Lagoa Nova,28
+2,Lagoa Seca,2
+0,,11
+1,Barro Vermelho,1
+2,Lagoa Nova,17
+3,Lagoa Seca,1
+4,Redinha,2
+0,,32
+0,,4
+1,Lagoa Nova,24
+2,Lagoa Seca,2
+3,Redinha,2
+0,Barro Vermelho,3
+1,Lagoa Nova,27
+2,Lagoa Seca,2
+0,,32
+0,,13
+1,Lagoa Nova,11
+2,Lagoa Seca,8
+0,Barro Vermelho,2
+1,Lagoa Nova,10
+2,Lagoa Seca,17
+3,Redinha,3
+0,,23
+1,Lagoa Nova,6
+2,Lagoa Seca,3
+0,,23
+1,Barro Vermelho,1
+2,Lagoa Nova,5
+3,Lagoa Seca,2
+4,Redinha,1
+0,Barro Vermelho,1
+1,Lagoa Nova,11
+2,Lagoa Seca,20
+0,,13
+1,Barro Vermelho,1
+2,Lagoa Nova,5
+3,Lagoa Seca,12
+4,Redinha,1
+0,,32
+0,,2
+1,Barro Vermelho,1
+2,Lagoa Nova,10
+3,Lagoa Seca,19
+0,,2
+1,Barro Vermelho,1
+2,Lagoa Nova,5
+3,Lagoa Seca,23
+4,Redinha,1
+0,,32
+0,,13
+1,Lagoa Nova,4
+2,Lagoa Seca,14
+3,Redinha,1
+0,Barro Vermelho,1
+1,Lagoa Nova,1
+2,Lagoa Seca,30
+0,,23
+1,Barro Vermelho,1
+2,Lagoa Nova,1
+3,Lagoa Seca,7
+0,,25
+1,Lagoa Seca,7
+0,Lagoa Nova,4
+1,Lagoa Seca,28
+0,,11
+1,Lagoa Nova,1
+2,Lagoa Seca,19
+3,Redinha,1
+0,,32
+0,,5
+1,Barro Vermelho,1
+2,Lagoa Nova,3
+3,Lagoa Seca,23
+0,Lagoa Nova,3
+1,Lagoa Seca,28
+2,Redinha,1
+0,,31
+1,Lagoa Seca,1
+0,,16
+1,Lagoa Seca,16
+0,Lagoa Nova,2
+1,Lagoa Seca,30
+0,,20
+1,Lagoa Seca,12
+0,,26
+1,Lagoa Nova,1
+2,Lagoa Seca,5
+0,Barro Vermelho,1
+1,Lagoa Nova,3
+2,Lagoa Seca,27
+3,Redinha,1
+0,,10
+1,Lagoa Nova,3
+2,Lagoa Seca,19
+0,,32
+0,,5
+1,Barro Vermelho,1
+2,Lagoa Seca,26
+0,Barro Vermelho,1
+1,Lagoa Nova,3
+2,Lagoa Seca,27
+3,Redinha,1
+0,,31
+1,Redinha,1
+0,,15
+1,Barro Vermelho,1
+2,Lagoa Nova,2
+3,Lagoa Seca,14
+0,Lagoa Nova,3
+1,Lagoa Seca,29
+0,,21
+1,Lagoa Nova,1
+2,Lagoa Seca,10
+0,,26
+1,Lagoa Nova,1
+2,Lagoa Seca,5
+0,Lagoa Nova,5
+1,Lagoa Seca,27
+0,,10
+1,Lagoa Nova,3
+2,Lagoa Seca,19
+0,,32
+0,,1
+1,Lagoa Nova,4
+2,Lagoa Seca,26
+3,Redinha,1
+0,,3
+1,Lagoa Nova,3
+2,Lagoa Seca,25
+3,Redinha,1
+0,,32
+0,,9
+1,Lagoa Nova,3
+2,Lagoa Seca,19
+3,Redinha,1
+0,Barro Vermelho,1
+1,Lagoa Nova,1
+2,Lagoa Seca,30
+0,,27
+1,Lagoa Nova,1
+2,Lagoa Seca,4
+0,,17
+1,Lagoa Nova,1
+2,Lagoa Seca,14
+0,Barro Vermelho,2
+1,Lagoa Nova,3
+2,Lagoa Seca,27
+0,,19
+1,Lagoa Seca,13
+0,,32
+0,Barro Vermelho,2
+1,Lagoa Nova,5
+2,Lagoa Seca,24
+3,Santos Reis,1
+0,,4
+1,Lagoa Nova,3
+2,Lagoa Seca,24
+3,Santos Reis,1
+0,,32
+0,,10
+1,Lagoa Nova,3
+2,Lagoa Seca,19
+0,Barro Vermelho,1
+1,Lagoa Nova,3
+2,Lagoa Seca,26
+3,Santos Reis,2
+0,,26
+1,Lagoa Nova,2
+2,Lagoa Seca,4
+0,,23
+1,Lagoa Nova,1
+2,Lagoa Seca,8
+0,,17
+1,Lagoa Nova,3
+2,Lagoa Seca,12
+0,,32
+0,,32
+0,,22
+1,Lagoa Nova,1
+2,Lagoa Seca,9
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,31
+1,Cidade Alta,1
+0,,31
+1,Ribeira,1
+0,,21
+1,Barro Vermelho,2
+2,Cidade Alta,1
+3,Ribeira,8
+0,Barro Vermelho,10
+1,Cidade Alta,3
+2,Ribeira,15
+3,Tirol,4
+0,,15
+1,Barro Vermelho,7
+2,Cidade Alta,1
+3,Ribeira,9
+0,,27
+1,Barro Vermelho,3
+2,Ribeira,2
+0,Barro Vermelho,12
+1,Cidade Alta,2
+2,Lagoa Nova,3
+3,Ribeira,14
+4,Santos Reis,1
+0,,9
+1,Barro Vermelho,2
+2,Cidade Alta,2
+3,Lagoa Nova,1
+4,Ribeira,14
+5,Santos Reis,1
+6,Tirol,3
+0,,31
+1,Ribeira,1
+0,Barro Vermelho,9
+1,Cidade Alta,3
+2,Ribeira,19
+3,Tirol,1
+0,,5
+1,Barro Vermelho,13
+2,Cidade Alta,4
+3,Lagoa Nova,1
+4,Ribeira,7
+5,Tirol,2
+0,,31
+1,Ribeira,1
+0,Barro Vermelho,17
+1,Cidade Alta,6
+2,Lagoa Nova,2
+3,Ribeira,4
+4,Tirol,3
+0,,5
+1,Barro Vermelho,18
+2,Cidade Alta,4
+3,Lagoa Nova,2
+4,Ribeira,2
+5,Tirol,1
+0,,32
+0,,3
+1,Barro Vermelho,18
+2,Cidade Alta,5
+3,Ribeira,4
+4,Tirol,2
+0,,1
+1,Barro Vermelho,13
+2,Cidade Alta,8
+3,Lagoa Nova,1
+4,Ribeira,6
+5,Tirol,3
+0,,32
+0,,12
+1,Barro Vermelho,12
+2,Cidade Alta,4
+3,Lagoa Nova,1
+4,Ribeira,2
+5,Tirol,1
+0,Barro Vermelho,13
+1,Cidade Alta,7
+2,Lagoa Nova,5
+3,Ribeira,3
+4,Santos Reis,1
+5,Tirol,3
+0,,24
+1,Barro Vermelho,3
+2,Cidade Alta,3
+3,Ribeira,1
+4,Tirol,1
+0,,19
+1,Barro Vermelho,3
+2,Cidade Alta,4
+3,Ribeira,4
+4,Tirol,2
+0,Barro Vermelho,16
+1,Cidade Alta,7
+2,Lagoa Nova,2
+3,Ribeira,6
+4,Tirol,1
+0,,17
+1,Barro Vermelho,8
+2,Cidade Alta,4
+3,Lagoa Nova,1
+4,Tirol,2
+0,,27
+1,Barro Vermelho,3
+2,Cidade Alta,1
+3,Tirol,1
+0,Barro Vermelho,15
+1,Cidade Alta,8
+2,Ribeira,3
+3,Tirol,6
+0,,9
+1,Barro Vermelho,11
+2,Cidade Alta,4
+3,Lagoa Nova,1
+4,Ribeira,2
+5,Tirol,5
+0,,32
+0,Barro Vermelho,15
+1,Cidade Alta,3
+2,Lagoa Nova,2
+3,Ribeira,5
+4,Santos Reis,1
+5,Tirol,6
+0,,4
+1,Barro Vermelho,9
+2,Cidade Alta,4
+3,Lagoa Nova,2
+4,Ribeira,3
+5,Tirol,10
+0,,32
+0,,10
+1,Barro Vermelho,10
+2,Cidade Alta,2
+3,Lagoa Nova,1
+4,Ribeira,4
+5,Santos Reis,2
+6,Tirol,3
+0,Barro Vermelho,12
+1,Cidade Alta,4
+2,Lagoa Nova,2
+3,Ribeira,6
+4,Tirol,8
+0,,26
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Ribeira,2
+4,Tirol,2
+0,,21
+1,Barro Vermelho,5
+2,Cidade Alta,2
+3,Lagoa Nova,1
+4,Ribeira,2
+5,Tirol,1
+0,Barro Vermelho,9
+1,Cidade Alta,5
+2,Lagoa Nova,1
+3,Ribeira,2
+4,Santos Reis,1
+5,Tirol,14
+0,,15
+1,Barro Vermelho,4
+2,Cidade Alta,4
+3,Ribeira,4
+4,Tirol,5
+0,,32
+0,,2
+1,Barro Vermelho,11
+2,Cidade Alta,4
+3,Lagoa Nova,2
+4,Ribeira,8
+5,Tirol,5
+0,,2
+1,Barro Vermelho,9
+2,Cidade Alta,3
+3,Ribeira,6
+4,Santos Reis,1
+5,Tirol,11
+0,,32
+0,,14
+1,Barro Vermelho,8
+2,Lagoa Nova,2
+3,Ribeira,4
+4,Tirol,4
+0,Barro Vermelho,8
+1,Cidade Alta,9
+2,Lagoa Nova,1
+3,Ribeira,6
+4,Tirol,8
+0,,22
+1,Barro Vermelho,3
+2,Cidade Alta,1
+3,Ribeira,2
+4,Tirol,4
+0,,28
+1,Barro Vermelho,3
+2,Lagoa Nova,1
+0,Barro Vermelho,9
+1,Cidade Alta,4
+2,Lagoa Nova,1
+3,Ribeira,8
+4,Tirol,10
+0,,8
+1,Barro Vermelho,5
+2,Cidade Alta,1
+3,Lagoa Nova,2
+4,Ribeira,4
+5,Santos Reis,1
+6,Tirol,11
+0,,32
+0,,6
+1,Barro Vermelho,9
+2,Cidade Alta,3
+3,Ribeira,8
+4,Tirol,6
+0,Barro Vermelho,9
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Ribeira,13
+4,Tirol,7
+0,,30
+1,Barro Vermelho,1
+2,Lagoa Nova,1
+0,,15
+1,Barro Vermelho,7
+2,Cidade Alta,3
+3,Lagoa Nova,1
+4,Ribeira,4
+5,Tirol,2
+0,Barro Vermelho,8
+1,Cidade Alta,5
+2,Lagoa Nova,2
+3,Ribeira,12
+4,Tirol,5
+0,,21
+1,Barro Vermelho,3
+2,Ribeira,3
+3,Tirol,5
+0,,23
+1,Barro Vermelho,2
+2,Cidade Alta,2
+3,Ribeira,4
+4,Tirol,1
+0,Barro Vermelho,4
+1,Cidade Alta,1
+2,Lagoa Nova,6
+3,Ribeira,16
+4,Tirol,5
+0,,13
+1,Barro Vermelho,7
+2,Cidade Alta,1
+3,Lagoa Nova,2
+4,Ribeira,5
+5,Tirol,4
+0,,28
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Tirol,2
+0,Barro Vermelho,7
+1,Cidade Alta,6
+2,Lagoa Nova,2
+3,Redinha,2
+4,Ribeira,13
+5,Tirol,2
+0,,8
+1,Barro Vermelho,7
+2,Cidade Alta,1
+3,Lagoa Nova,5
+4,Ribeira,4
+5,Tirol,7
+0,,32
+0,,8
+1,Barro Vermelho,4
+2,Cidade Alta,1
+3,Lagoa Nova,6
+4,Ribeira,6
+5,Tirol,7
+0,Barro Vermelho,6
+1,Cidade Alta,4
+2,Lagoa Nova,6
+3,Ribeira,13
+4,Tirol,3
+0,,28
+1,Barro Vermelho,1
+2,Lagoa Nova,2
+3,Ribeira,1
+0,,8
+1,Barro Vermelho,6
+2,Cidade Alta,4
+3,Lagoa Nova,4
+4,Ribeira,7
+5,Tirol,3
+0,Barro Vermelho,6
+1,Cidade Alta,1
+2,Lagoa Nova,5
+3,Redinha,1
+4,Ribeira,10
+5,Tirol,9
+0,,28
+1,Barro Vermelho,2
+2,Lagoa Nova,2
+0,,13
+1,Barro Vermelho,6
+2,Cidade Alta,1
+3,Lagoa Nova,3
+4,Ribeira,8
+5,Tirol,1
+0,Barro Vermelho,3
+1,Cidade Alta,1
+2,Lagoa Nova,9
+3,Ribeira,18
+4,Tirol,1
+0,,23
+1,Lagoa Nova,3
+2,Ribeira,4
+3,Tirol,2
+0,,27
+1,Ribeira,5
+0,Barro Vermelho,4
+1,Cidade Alta,1
+2,Lagoa Nova,9
+3,Ribeira,16
+4,Tirol,2
+0,,9
+1,Barro Vermelho,3
+2,Cidade Alta,1
+3,Lagoa Nova,3
+4,Ribeira,13
+5,Tirol,3
+0,,32
+0,,7
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Lagoa Nova,5
+4,Ribeira,15
+5,Tirol,3
+0,Barro Vermelho,6
+1,Cidade Alta,1
+2,Lagoa Nova,5
+3,Redinha,1
+4,Ribeira,17
+5,Tirol,2
+0,,29
+1,Ribeira,3
+0,,12
+1,Lagoa Nova,5
+2,Ribeira,14
+3,Tirol,1
+0,Barro Vermelho,6
+1,Lagoa Nova,6
+2,Ribeira,17
+3,Tirol,3
+0,,24
+1,Barro Vermelho,2
+2,Lagoa Nova,2
+3,Ribeira,2
+4,Tirol,2
+0,,24
+1,Ribeira,8
+0,Barro Vermelho,4
+1,Lagoa Nova,6
+2,Ribeira,21
+3,Tirol,1
+0,,12
+1,Barro Vermelho,2
+2,Lagoa Nova,3
+3,Ribeira,14
+4,Tirol,1
+0,,32
+0,,1
+1,Barro Vermelho,1
+2,Lagoa Nova,6
+3,Ribeira,21
+4,Tirol,3
+0,,3
+1,Barro Vermelho,4
+2,Lagoa Nova,6
+3,Ribeira,19
+0,,32
+0,,11
+1,Barro Vermelho,4
+2,Cidade Alta,1
+3,Lagoa Nova,5
+4,Ribeira,11
+0,Barro Vermelho,4
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Ribeira,23
+4,Tirol,3
+0,,25
+1,Redinha,1
+2,Ribeira,5
+3,Tirol,1
+0,,22
+1,Barro Vermelho,5
+2,Ribeira,4
+3,Tirol,1
+0,Barro Vermelho,3
+1,Lagoa Nova,4
+2,Ribeira,23
+3,Tirol,2
+0,,14
+1,Barro Vermelho,5
+2,Lagoa Nova,3
+3,Ribeira,8
+4,Santos Reis,1
+5,Tirol,1
+0,,32
+0,Barro Vermelho,7
+1,Lagoa Nova,3
+2,Ribeira,21
+3,Tirol,1
+0,,4
+1,Barro Vermelho,4
+2,Lagoa Nova,4
+3,Ribeira,16
+4,Tirol,4
+0,,32
+0,,13
+1,Barro Vermelho,1
+2,Lagoa Nova,3
+3,Ribeira,12
+4,Tirol,3
+0,Barro Vermelho,9
+1,Lagoa Nova,5
+2,Ribeira,15
+3,Santos Reis,1
+4,Tirol,2
+0,,23
+1,Barro Vermelho,2
+2,Lagoa Nova,4
+3,Ribeira,3
+0,,21
+1,Barro Vermelho,6
+2,Lagoa Nova,2
+3,Ribeira,3
+0,Barro Vermelho,1
+1,Lagoa Nova,6
+2,Ribeira,21
+3,Tirol,4
+0,,15
+1,Barro Vermelho,4
+2,Cidade Alta,1
+3,Lagoa Nova,2
+4,Ribeira,10
+0,,28
+1,Barro Vermelho,1
+2,Ribeira,3
+0,Barro Vermelho,7
+1,Lagoa Nova,3
+2,Ribeira,20
+3,Tirol,2
+0,,8
+1,Barro Vermelho,6
+2,Lagoa Nova,4
+3,Ribeira,11
+4,Santos Reis,1
+5,Tirol,2
+0,,30
+1,Ribeira,1
+2,Tirol,1
+0,Barro Vermelho,8
+1,Cidade Alta,1
+2,Ribeira,18
+3,Tirol,5
+0,,6
+1,Barro Vermelho,5
+2,Lagoa Nova,3
+3,Ribeira,15
+4,Tirol,3
+0,,32
+0,,1
+1,Barro Vermelho,4
+2,Cidade Alta,3
+3,Lagoa Nova,4
+4,Ribeira,17
+5,Tirol,3
+0,,3
+1,Barro Vermelho,7
+2,Lagoa Nova,5
+3,Ribeira,13
+4,Tirol,4
+0,,32
+0,,8
+1,Barro Vermelho,6
+2,Cidade Alta,1
+3,Lagoa Nova,5
+4,Ribeira,9
+5,Tirol,3
+0,Barro Vermelho,6
+1,Cidade Alta,1
+2,Lagoa Nova,9
+3,Redinha,1
+4,Ribeira,13
+5,Tirol,2
+0,,28
+1,Lagoa Nova,2
+2,Nova Descoberta,1
+3,Tirol,1
+0,,15
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Lagoa Nova,1
+4,Nova Descoberta,1
+5,Ribeira,10
+6,Santos Reis,1
+7,Tirol,2
+0,Barro Vermelho,6
+1,Cidade Alta,2
+2,Lagoa Nova,5
+3,Nova Descoberta,1
+4,Ribeira,13
+5,Tirol,5
+0,,21
+1,Barro Vermelho,3
+2,Lagoa Nova,1
+3,Nova Descoberta,3
+4,Ribeira,4
+0,,13
+1,Barro Vermelho,4
+2,Cidade Alta,3
+3,Nova Descoberta,1
+4,Ribeira,8
+5,Tirol,3
+0,Barro Vermelho,2
+1,Cidade Alta,7
+2,Lagoa Nova,3
+3,Nova Descoberta,4
+4,Ribeira,10
+5,Tirol,6
+0,,23
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+3,Ribeira,3
+4,Tirol,4
+0,,21
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Lagoa Nova,4
+4,Ribeira,2
+5,Tirol,3
+0,Barro Vermelho,5
+1,Cidade Alta,2
+2,Lagoa Nova,3
+3,Nova Descoberta,4
+4,Ribeira,14
+5,Tirol,4
+0,,15
+1,Barro Vermelho,1
+2,Cidade Alta,6
+3,Lagoa Nova,1
+4,Redinha,1
+5,Ribeira,6
+6,Tirol,2
+0,,24
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,1
+0,Barro Vermelho,1
+1,Cidade Alta,6
+2,Lagoa Nova,8
+3,Ribeira,12
+4,Tirol,5
+0,,12
+1,Barro Vermelho,2
+2,Cidade Alta,2
+3,Lagoa Nova,4
+4,Lagoa Seca,2
+5,Ribeira,7
+6,Tirol,3
+0,,32
+0,Barro Vermelho,2
+1,Cidade Alta,6
+2,Lagoa Nova,5
+3,Ribeira,14
+4,Tirol,5
+0,,4
+1,Barro Vermelho,2
+2,Cidade Alta,5
+3,Lagoa Nova,2
+4,Lagoa Seca,1
+5,Petrópolis,1
+6,Ribeira,11
+7,Tirol,6
+0,,32
+0,,9
+1,Lagoa Seca,4
+2,Nova Descoberta,1
+3,Ribeira,11
+4,Tirol,7
+0,Barro Vermelho,3
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Lagoa Seca,2
+4,Nova Descoberta,1
+5,Ribeira,17
+6,Tirol,7
+0,,27
+1,Lagoa Nova,3
+2,Ribeira,1
+3,Tirol,1
+0,,15
+1,Cidade Alta,1
+2,Nova Descoberta,3
+3,Ribeira,9
+4,Santos Reis,1
+5,Tirol,3
+0,Barro Vermelho,2
+1,Cidade Alta,2
+2,Lagoa Nova,5
+3,Nova Descoberta,3
+4,Petrópolis,1
+5,Ribeira,15
+6,Tirol,4
+0,,14
+1,Cidade Alta,1
+2,Lagoa Nova,4
+3,Ribeira,8
+4,Santos Reis,1
+5,Tirol,4
+0,Barro Vermelho,2
+1,Cidade Alta,2
+2,Lagoa Nova,2
+3,Nova Descoberta,2
+4,Ribeira,13
+5,Tirol,11
+0,,4
+1,Barro Vermelho,5
+2,Cidade Alta,3
+3,Lagoa Nova,3
+4,Nova Descoberta,1
+5,Ribeira,11
+6,Tirol,5
+0,Barro Vermelho,2
+1,Cidade Alta,1
+2,Lagoa Nova,6
+3,Ribeira,15
+4,Tirol,8
+0,,11
+1,Barro Vermelho,1
+2,Cidade Alta,1
+3,Lagoa Nova,1
+4,Ribeira,8
+5,Tirol,10
+0,,15
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Nova Descoberta,2
+4,Ribeira,8
+5,Tirol,4
+0,Barro Vermelho,1
+1,Cidade Alta,2
+2,Lagoa Nova,2
+3,Ribeira,16
+4,Tirol,11
+0,,18
+1,Barro Vermelho,1
+2,Nova Descoberta,1
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,7
+0,Barro Vermelho,3
+1,Lagoa Nova,6
+2,Nova Descoberta,6
+3,Ribeira,8
+4,Santos Reis,1
+5,Tirol,8
+0,Cidade Alta,1
+1,Lagoa Nova,3
+2,Nova Descoberta,1
+3,Ribeira,15
+4,Tirol,12
+0,Cidade Alta,2
+1,Lagoa Nova,2
+2,Nova Descoberta,3
+3,Ribeira,17
+4,Tirol,8
+0,,21
+1,Lagoa Nova,1
+2,Ribeira,3
+3,Tirol,7
+0,Lagoa Nova,4
+1,Nova Descoberta,2
+2,Ribeira,10
+3,Tirol,16
+0,,10
+1,Cidade Alta,1
+2,Ribeira,9
+3,Santos Reis,1
+4,Tirol,11
+0,,1
+1,Lagoa Nova,9
+2,Ribeira,12
+3,Tirol,10
+0,,3
+1,Lagoa Nova,4
+2,Ribeira,13
+3,Tirol,12
+0,,15
+1,Lagoa Nova,1
+2,Ribeira,9
+3,Rocas,1
+4,Tirol,6
+0,Lagoa Nova,5
+1,Nova Descoberta,4
+2,Ribeira,10
+3,Tirol,13
+0,,21
+1,Nova Descoberta,1
+2,Ribeira,6
+3,Santos Reis,2
+4,Tirol,2
+0,,10
+1,Cidade Alta,1
+2,Nova Descoberta,3
+3,Ribeira,7
+4,Tirol,11
+0,Lagoa Nova,5
+1,Nova Descoberta,3
+2,Ribeira,14
+3,Rocas,1
+4,Santos Reis,2
+5,Tirol,7
+0,,26
+1,Lagoa Nova,2
+2,Ribeira,3
+3,Tirol,1
+0,,4
+1,Lagoa Nova,1
+2,Nova Descoberta,3
+3,Ribeira,7
+4,Rocas,1
+5,Tirol,16
+0,Cidade Alta,1
+1,Lagoa Nova,4
+2,Ribeira,11
+3,Rocas,1
+4,Tirol,15
+0,,32
+0,,3
+1,Lagoa Nova,6
+2,Nova Descoberta,2
+3,Ribeira,10
+4,Santos Reis,1
+5,Tirol,10
+0,,1
+1,Lagoa Nova,3
+2,Nova Descoberta,1
+3,Ribeira,12
+4,Santos Reis,1
+5,Tirol,14
+0,,20
+1,Lagoa Nova,3
+2,Ribeira,2
+3,Rocas,1
+4,Tirol,6
+0,Cidade Alta,1
+1,Lagoa Nova,2
+2,Nova Descoberta,2
+3,Ribeira,13
+4,Santos Reis,2
+5,Tirol,12
+0,,16
+1,Lagoa Nova,3
+2,Nova Descoberta,1
+3,Ribeira,6
+4,Tirol,6
+0,,9
+1,Lagoa Nova,1
+2,Nova Descoberta,2
+3,Ribeira,9
+4,Tirol,11
+0,Lagoa Nova,4
+1,Nova Descoberta,4
+2,Ribeira,10
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,12
+0,,27
+1,Lagoa Nova,1
+2,Ribeira,1
+3,Tirol,3
+0,,3
+1,Cidade Alta,1
+2,Lagoa Nova,7
+3,Nova Descoberta,2
+4,Ribeira,6
+5,Rocas,1
+6,Santos Reis,2
+7,Tirol,10
+0,,1
+1,Cidade Alta,1
+2,Lagoa Nova,5
+3,Nova Descoberta,2
+4,Ribeira,10
+5,Rocas,1
+6,Tirol,12
+0,,32
+0,Lagoa Nova,5
+1,Nova Descoberta,1
+2,Ribeira,14
+3,Tirol,12
+0,,4
+1,Lagoa Nova,5
+2,Nova Descoberta,2
+3,Ribeira,12
+4,Rocas,1
+5,Santos Reis,1
+6,Tirol,7
+0,,25
+1,Lagoa Nova,1
+2,Ribeira,3
+3,Tirol,3
+0,Lagoa Nova,4
+1,Nova Descoberta,4
+2,Ribeira,8
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,14
+0,,11
+1,Lagoa Nova,3
+2,Nova Descoberta,4
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,9
+0,,11
+1,Cidade Alta,1
+2,Lagoa Nova,4
+3,Nova Descoberta,1
+4,Ribeira,8
+5,Tirol,7
+0,Lagoa Nova,4
+1,Petrópolis,1
+2,Ribeira,14
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,11
+0,,25
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Ribeira,2
+4,Tirol,3
+0,,1
+1,Cidade Alta,3
+2,Lagoa Nova,5
+3,Nova Descoberta,1
+4,Petrópolis,3
+5,Ribeira,8
+6,Tirol,11
+0,,3
+1,Cidade Alta,3
+2,Lagoa Nova,6
+3,Nova Descoberta,2
+4,Ribeira,12
+5,Tirol,6
+0,,4
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Nova Descoberta,2
+4,Petrópolis,2
+5,Ribeira,7
+6,Rocas,2
+7,Santos Reis,1
+8,Tirol,11
+0,Cidade Alta,3
+1,Lagoa Nova,6
+2,Ribeira,7
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,14
+0,,19
+1,Lagoa Nova,1
+2,Nova Descoberta,2
+3,Ribeira,5
+4,Santos Reis,1
+5,Tirol,4
+0,Cidade Alta,1
+1,Lagoa Nova,3
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,4
+5,Santos Reis,3
+6,Tirol,13
+0,,4
+1,Lagoa Nova,3
+2,Nova Descoberta,1
+3,Petrópolis,2
+4,Ribeira,12
+5,Santos Reis,1
+6,Tirol,9
+0,Cidade Alta,5
+1,Lagoa Nova,8
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,5
+5,Tirol,12
+0,,15
+1,Lagoa Nova,4
+2,Nova Descoberta,2
+3,Ribeira,7
+4,Rocas,1
+5,Tirol,3
+0,Cidade Alta,2
+1,Lagoa Nova,2
+2,Nova Descoberta,2
+3,Ribeira,11
+4,Rocas,2
+5,Santos Reis,2
+6,Tirol,11
+0,,6
+1,Cidade Alta,4
+2,Lagoa Nova,8
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Ribeira,6
+6,Santos Reis,1
+7,Tirol,5
+0,Cidade Alta,10
+1,Lagoa Nova,7
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,7
+5,Tirol,5
+0,Cidade Alta,1
+1,Lagoa Nova,6
+2,Nova Descoberta,1
+3,Ribeira,6
+4,Santos Reis,1
+5,Tirol,17
+0,,4
+1,Cidade Alta,1
+2,Lagoa Nova,5
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Ribeira,3
+6,Tirol,17
+0,,2
+1,Cidade Alta,1
+2,Lagoa Nova,6
+3,Nova Descoberta,3
+4,Petrópolis,2
+5,Ribeira,8
+6,Rocas,1
+7,Santos Reis,1
+8,Tirol,8
+0,,2
+1,Cidade Alta,6
+2,Lagoa Nova,5
+3,Nova Descoberta,2
+4,Petrópolis,1
+5,Ribeira,7
+6,Rocas,2
+7,Tirol,7
+0,,16
+1,Cidade Alta,3
+2,Lagoa Nova,4
+3,Ribeira,3
+4,Tirol,6
+0,Cidade Alta,4
+1,Lagoa Nova,8
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,5
+5,Santos Reis,1
+6,Tirol,10
+0,,20
+1,Cidade Alta,1
+2,Lagoa Nova,3
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Ribeira,2
+6,Tirol,4
+0,,3
+1,Cidade Alta,3
+2,Lagoa Nova,13
+3,Nova Descoberta,3
+4,Ribeira,2
+5,Santos Reis,1
+6,Tirol,7
+0,,1
+1,Cidade Alta,3
+2,Lagoa Nova,9
+3,Nova Descoberta,4
+4,Ribeira,10
+5,Tirol,5
+0,,5
+1,Cidade Alta,2
+2,Lagoa Nova,9
+3,Nova Descoberta,1
+4,Ribeira,5
+5,Rocas,1
+6,Tirol,9
+0,Cidade Alta,2
+1,Lagoa Nova,8
+2,Nova Descoberta,1
+3,Petrópolis,2
+4,Ribeira,6
+5,Rocas,1
+6,Tirol,12
+0,,12
+1,Lagoa Nova,8
+2,Nova Descoberta,1
+3,Ribeira,5
+4,Rocas,1
+5,Tirol,5
+0,Cidade Alta,4
+1,Lagoa Nova,7
+2,Ribeira,4
+3,Santos Reis,1
+4,Tirol,16
+0,,20
+1,Cidade Alta,2
+2,Lagoa Nova,3
+3,Ribeira,1
+4,Tirol,6
+0,Cidade Alta,2
+1,Lagoa Nova,9
+2,Petrópolis,1
+3,Ribeira,8
+4,Tirol,12
+0,,7
+1,Cidade Alta,1
+2,Lagoa Nova,5
+3,Petrópolis,1
+4,Ribeira,8
+5,Tirol,10
+0,,12
+1,Lagoa Nova,9
+2,Nova Descoberta,1
+3,Ribeira,6
+4,Tirol,4
+0,Cidade Alta,2
+1,Lagoa Nova,7
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,12
+5,Rocas,1
+6,Santos Reis,1
+7,Tirol,7
+0,,24
+1,Lagoa Nova,2
+2,Ribeira,1
+3,Rocas,1
+4,Tirol,4
+0,,3
+1,Lagoa Nova,7
+2,Nova Descoberta,4
+3,Petrópolis,2
+4,Ribeira,3
+5,Santos Reis,1
+6,Tirol,12
+0,Lagoa Nova,15
+1,Nova Descoberta,2
+2,Petrópolis,1
+3,Ribeira,9
+4,Tirol,5
+0,Lagoa Nova,11
+1,Nova Descoberta,1
+2,Petrópolis,1
+3,Ribeira,3
+4,Santos Reis,1
+5,Tirol,15
+0,,20
+1,Lagoa Nova,4
+2,Nova Descoberta,1
+3,Ribeira,5
+4,Tirol,2
+0,,14
+1,Cidade Alta,1
+2,Lagoa Nova,6
+3,Nova Descoberta,4
+4,Petrópolis,1
+5,Ribeira,1
+6,Rocas,1
+7,Tirol,4
+0,Lagoa Nova,12
+1,Nova Descoberta,2
+2,Petrópolis,2
+3,Ribeira,3
+4,Rocas,1
+5,Tirol,12
+0,,22
+1,Lagoa Nova,4
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,1
+5,Tirol,2
+0,,4
+1,Lagoa Nova,12
+2,Nova Descoberta,3
+3,Petrópolis,2
+4,Ribeira,2
+5,Rocas,1
+6,Tirol,8
+0,Lagoa Nova,8
+1,Nova Descoberta,10
+2,Petrópolis,3
+3,Ribeira,7
+4,Tirol,4
+0,,23
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Nova Descoberta,1
+4,Ribeira,1
+5,Tirol,4
+0,Lagoa Nova,12
+1,Nova Descoberta,5
+2,Petrópolis,1
+3,Ribeira,9
+4,Tirol,5
+0,,13
+1,Lagoa Nova,8
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,1
+5,Santos Reis,1
+6,Tirol,6
+0,,5
+1,Lagoa Nova,11
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,7
+5,Santos Reis,1
+6,Tirol,6
+0,Lagoa Nova,11
+1,Nova Descoberta,5
+2,Petrópolis,2
+3,Ribeira,5
+4,Rocas,1
+5,Santos Reis,1
+6,Tirol,7
+0,Lagoa Nova,12
+1,Nova Descoberta,5
+2,Ribeira,4
+3,Rocas,1
+4,Tirol,10
+0,,15
+1,Lagoa Nova,4
+2,Nova Descoberta,3
+3,Ribeira,5
+4,Tirol,5
+0,,11
+1,Cidade Alta,1
+2,Lagoa Nova,4
+3,Nova Descoberta,2
+4,Petrópolis,1
+5,Ribeira,5
+6,Rocas,1
+7,Tirol,7
+0,Cidade Alta,1
+1,Lagoa Nova,10
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,6
+5,Rocas,1
+6,Santos Reis,1
+7,Tirol,10
+0,,25
+1,Lagoa Nova,2
+2,Nova Descoberta,2
+3,Tirol,3
+0,,2
+1,Lagoa Nova,7
+2,Nova Descoberta,5
+3,Petrópolis,4
+4,Ribeira,6
+5,Rocas,1
+6,Santos Reis,1
+7,Tirol,6
+0,,2
+1,Lagoa Nova,8
+2,Nova Descoberta,6
+3,Petrópolis,1
+4,Ribeira,6
+5,Tirol,9
+0,,18
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Petrópolis,2
+4,Ribeira,4
+5,Tirol,6
+0,Lagoa Nova,6
+1,Nova Descoberta,5
+2,Ribeira,10
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,9
+0,,18
+1,Lagoa Nova,3
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,5
+0,,5
+1,Lagoa Nova,9
+2,Nova Descoberta,4
+3,Petrópolis,2
+4,Ribeira,3
+5,Tirol,9
+0,Lagoa Nova,12
+1,Lagoa Seca,1
+2,Nova Descoberta,7
+3,Ribeira,3
+4,Tirol,9
+0,,28
+1,Lagoa Nova,1
+2,Ribeira,3
+0,Cidade Alta,1
+1,Lagoa Nova,12
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,5
+5,Santos Reis,1
+6,Tirol,10
+0,,7
+1,Lagoa Nova,6
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,6
+5,Santos Reis,1
+6,Tirol,10
+0,,21
+1,Lagoa Nova,3
+2,Ribeira,4
+3,Tirol,4
+0,Barro Vermelho,1
+1,Lagoa Nova,7
+2,Nova Descoberta,4
+3,Petrópolis,4
+4,Ribeira,3
+5,Rocas,1
+6,Tirol,12
+0,,15
+1,Lagoa Nova,3
+2,Nova Descoberta,3
+3,Petrópolis,2
+4,Ribeira,1
+5,Rocas,1
+6,Tirol,7
+0,,18
+1,Lagoa Nova,5
+2,Nova Descoberta,4
+3,Ribeira,2
+4,Tirol,3
+0,Lagoa Nova,9
+1,Lagoa Seca,1
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,10
+5,Rocas,1
+6,Tirol,7
+0,,18
+1,Lagoa Nova,3
+2,Lagoa Seca,1
+3,Nova Descoberta,5
+4,Petrópolis,1
+5,Ribeira,2
+6,Tirol,2
+0,,8
+1,Lagoa Nova,4
+2,Lagoa Seca,2
+3,Nova Descoberta,4
+4,Ribeira,3
+5,Tirol,11
+0,Cidade Alta,1
+1,Lagoa Nova,10
+2,Lagoa Seca,1
+3,Nova Descoberta,4
+4,Petrópolis,2
+5,Ribeira,7
+6,Tirol,7
+0,,16
+1,Lagoa Nova,7
+2,Nova Descoberta,4
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,2
+0,Lagoa Nova,13
+1,Lagoa Seca,1
+2,Nova Descoberta,4
+3,Ribeira,4
+4,Rocas,1
+5,Santos Reis,1
+6,Tirol,8
+0,,16
+1,Lagoa Nova,8
+2,Lagoa Seca,2
+3,Nova Descoberta,2
+4,Ribeira,3
+5,Tirol,1
+0,,2
+1,Lagoa Nova,13
+2,Lagoa Seca,3
+3,Nova Descoberta,3
+4,Petrópolis,3
+5,Ribeira,4
+6,Tirol,4
+0,,2
+1,Barro Vermelho,1
+2,Lagoa Nova,12
+3,Lagoa Seca,1
+4,Nova Descoberta,1
+5,Petrópolis,1
+6,Ribeira,6
+7,Rocas,1
+8,Tirol,7
+0,,16
+1,Lagoa Nova,7
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,4
+5,Santos Reis,1
+0,Cidade Alta,2
+1,Lagoa Nova,12
+2,Lagoa Seca,1
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Ribeira,5
+6,Rocas,2
+7,Santos Reis,1
+8,Tirol,7
+0,,14
+1,Lagoa Nova,5
+2,Nova Descoberta,5
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,4
+0,Barro Vermelho,1
+1,Lagoa Nova,17
+2,Lagoa Seca,1
+3,Nova Descoberta,2
+4,Petrópolis,2
+5,Ribeira,6
+6,Tirol,3
+0,,6
+1,Barro Vermelho,5
+2,Lagoa Nova,14
+3,Lagoa Seca,1
+4,Nova Descoberta,2
+5,Ribeira,3
+6,Tirol,1
+0,Barro Vermelho,1
+1,Lagoa Nova,13
+2,Nova Descoberta,5
+3,Ribeira,8
+4,Tirol,5
+0,,8
+1,Barro Vermelho,1
+2,Lagoa Nova,14
+3,Nova Descoberta,4
+4,Petrópolis,1
+5,Ribeira,1
+6,Tirol,3
+0,,15
+1,Barro Vermelho,1
+2,Lagoa Nova,10
+3,Nova Descoberta,2
+4,Ribeira,1
+5,Rocas,1
+6,Tirol,2
+0,Cidade Alta,1
+1,Lagoa Nova,21
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,4
+0,,19
+1,Barro Vermelho,1
+2,Lagoa Nova,7
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Ribeira,1
+6,Tirol,2
+0,Barro Vermelho,2
+1,Lagoa Nova,22
+2,Nova Descoberta,2
+3,Ribeira,3
+4,Tirol,3
+0,,6
+1,Barro Vermelho,1
+2,Lagoa Nova,20
+3,Nova Descoberta,1
+4,Petrópolis,1
+5,Tirol,3
+0,,6
+1,Lagoa Nova,18
+2,Nova Descoberta,2
+3,Ribeira,4
+4,Tirol,2
+0,Lagoa Nova,21
+1,Nova Descoberta,6
+2,Tirol,5
+0,,22
+1,Lagoa Nova,5
+2,Ribeira,1
+3,Tirol,4
+0,Lagoa Nova,18
+1,Nova Descoberta,4
+2,Ribeira,5
+3,Tirol,5
+0,,12
+1,Lagoa Nova,9
+2,Nova Descoberta,2
+3,Petrópolis,2
+4,Rocas,2
+5,Santos Reis,1
+6,Tirol,4
+0,,13
+1,Lagoa Nova,6
+2,Nova Descoberta,6
+3,Ribeira,3
+4,Santos Reis,1
+5,Tirol,3
+0,Lagoa Nova,13
+1,Nova Descoberta,6
+2,Petrópolis,1
+3,Ribeira,5
+4,Tirol,7
+0,,23
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Ribeira,4
+4,Rocas,1
+5,Tirol,1
+0,,9
+1,Lagoa Nova,9
+2,Nova Descoberta,4
+3,Ribeira,2
+4,Tirol,8
+0,Lagoa Nova,12
+1,Nova Descoberta,1
+2,Petrópolis,4
+3,Ribeira,4
+4,Tirol,11
+0,,21
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+3,Ribeira,4
+4,Tirol,5
+0,Lagoa Nova,6
+1,Nova Descoberta,9
+2,Petrópolis,1
+3,Ribeira,9
+4,Rocas,1
+5,Tirol,6
+0,,10
+1,Lagoa Nova,4
+2,Nova Descoberta,5
+3,Petrópolis,1
+4,Ribeira,4
+5,Santos Reis,2
+6,Tirol,6
+0,,13
+1,Lagoa Nova,1
+2,Nova Descoberta,5
+3,Petrópolis,2
+4,Ribeira,3
+5,Rocas,1
+6,Tirol,7
+0,Lagoa Nova,2
+1,Nova Descoberta,3
+2,Petrópolis,4
+3,Ribeira,10
+4,Rocas,1
+5,Tirol,12
+0,,20
+1,Lagoa Nova,2
+2,Nova Descoberta,4
+3,Ribeira,3
+4,Tirol,3
+0,Lagoa Nova,9
+1,Nova Descoberta,7
+2,Petrópolis,1
+3,Ribeira,2
+4,Santos Reis,1
+5,Tirol,12
+0,,7
+1,Cidade Alta,1
+2,Lagoa Nova,4
+3,Nova Descoberta,4
+4,Petrópolis,1
+5,Ribeira,9
+6,Rocas,1
+7,Tirol,5
+0,,12
+1,Lagoa Nova,3
+2,Nova Descoberta,7
+3,Ribeira,2
+4,Rocas,1
+5,Tirol,7
+0,Cidade Alta,3
+1,Lagoa Nova,3
+2,Nova Descoberta,3
+3,Petrópolis,5
+4,Ribeira,3
+5,Rocas,1
+6,Santos Reis,1
+7,Tirol,13
+0,,17
+1,Lagoa Nova,1
+2,Petrópolis,1
+3,Ribeira,7
+4,Tirol,6
+0,Lagoa Nova,4
+1,Nova Descoberta,9
+2,Petrópolis,5
+3,Ribeira,3
+4,Santos Reis,1
+5,Tirol,10
+0,,11
+1,Lagoa Nova,4
+2,Nova Descoberta,6
+3,Ribeira,2
+4,Tirol,9
+0,,14
+1,Lagoa Nova,2
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,4
+5,Rocas,1
+6,Tirol,9
+0,Cidade Alta,1
+1,Lagoa Nova,5
+2,Nova Descoberta,8
+3,Petrópolis,1
+4,Ribeira,5
+5,Rocas,2
+6,Tirol,10
+0,,22
+1,Lagoa Nova,1
+2,Nova Descoberta,5
+3,Petrópolis,1
+4,Ribeira,2
+5,Rocas,1
+0,,7
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Nova Descoberta,5
+4,Petrópolis,2
+5,Ribeira,6
+6,Santos Reis,1
+7,Tirol,8
+0,Lagoa Nova,3
+1,Nova Descoberta,7
+2,Petrópolis,1
+3,Ribeira,7
+4,Rocas,3
+5,Santos Reis,1
+6,Tirol,10
+0,,29
+1,Nova Descoberta,2
+2,Ribeira,1
+0,,1
+1,Lagoa Nova,1
+2,Nova Descoberta,9
+3,Petrópolis,1
+4,Ribeira,7
+5,Tirol,13
+0,,3
+1,Lagoa Nova,5
+2,Nova Descoberta,6
+3,Petrópolis,3
+4,Ribeira,2
+5,Rocas,1
+6,Tirol,12
+0,,17
+1,Lagoa Nova,1
+2,Nova Descoberta,4
+3,Ribeira,2
+4,Tirol,8
+0,Lagoa Nova,1
+1,Nova Descoberta,10
+2,Petrópolis,2
+3,Ribeira,5
+4,Rocas,2
+5,Tirol,12
+0,,19
+1,Cidade Alta,1
+2,Nova Descoberta,4
+3,Petrópolis,3
+4,Ribeira,1
+5,Tirol,4
+0,,9
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,2
+5,Rocas,1
+6,Tirol,11
+0,Lagoa Nova,1
+1,Nova Descoberta,10
+2,Petrópolis,2
+3,Ribeira,1
+4,Rocas,1
+5,Tirol,17
+0,,27
+1,Nova Descoberta,2
+2,Petrópolis,1
+3,Tirol,2
+0,,11
+1,Nova Descoberta,4
+2,Petrópolis,2
+3,Tirol,15
+0,Lagoa Nova,2
+1,Nova Descoberta,11
+2,Petrópolis,1
+3,Ribeira,2
+4,Rocas,1
+5,Santos Reis,1
+6,Tirol,14
+0,,25
+1,Lagoa Nova,1
+2,Nova Descoberta,2
+3,Tirol,4
+0,,18
+1,Nova Descoberta,1
+2,Petrópolis,3
+3,Ribeira,1
+4,Tirol,9
+0,Lagoa Nova,2
+1,Nova Descoberta,9
+2,Ribeira,6
+3,Rocas,2
+4,Santos Reis,1
+5,Tirol,12
+0,,18
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,4
+5,Tirol,7
+0,,29
+1,Nova Descoberta,1
+2,Tirol,2
+0,Lagoa Nova,2
+1,Nova Descoberta,6
+2,Petrópolis,2
+3,Ribeira,7
+4,Rocas,1
+5,Tirol,14
+0,,7
+1,Lagoa Nova,3
+2,Nova Descoberta,8
+3,Ribeira,2
+4,Tirol,12
+0,,32
+0,,3
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,18
+0,,1
+1,Lagoa Nova,2
+2,Nova Descoberta,7
+3,Petrópolis,5
+4,Ribeira,4
+5,Rocas,1
+6,Tirol,12
+0,,32
+0,,9
+1,Lagoa Nova,3
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,14
+0,Lagoa Nova,1
+1,Nova Descoberta,6
+2,Petrópolis,4
+3,Ribeira,4
+4,Rocas,2
+5,Tirol,15
+0,,27
+1,Ribeira,3
+2,Tirol,2
+0,,19
+1,Lagoa Nova,1
+2,Nova Descoberta,3
+3,Petrópolis,3
+4,Tirol,6
+0,Lagoa Nova,2
+1,Nova Descoberta,7
+2,Petrópolis,2
+3,Ribeira,4
+4,Tirol,17
+0,,17
+1,Lagoa Nova,2
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,7
+0,,30
+1,Nova Descoberta,1
+2,Ribeira,1
+0,Lagoa Nova,3
+1,Nova Descoberta,5
+2,Petrópolis,3
+3,Rocas,1
+4,Tirol,20
+0,,6
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Nova Descoberta,10
+4,Petrópolis,4
+5,Ribeira,3
+6,Rocas,1
+7,Santos Reis,1
+8,Tirol,5
+0,,32
+0,,3
+1,Nova Descoberta,8
+2,Petrópolis,2
+3,Ribeira,4
+4,Rocas,1
+5,Tirol,14
+0,,1
+1,Lagoa Nova,2
+2,Nova Descoberta,14
+3,Petrópolis,2
+4,Ribeira,6
+5,Rocas,1
+6,Tirol,6
+0,,32
+0,,11
+1,Lagoa Nova,1
+2,Nova Descoberta,7
+3,Petrópolis,2
+4,Ribeira,4
+5,Tirol,7
+0,Lagoa Nova,2
+1,Nova Descoberta,8
+2,Petrópolis,3
+3,Ribeira,5
+4,Rocas,2
+5,Tirol,12
+0,,25
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+3,Tirol,5
+0,,16
+1,Lagoa Nova,2
+2,Nova Descoberta,5
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,5
+0,Lagoa Nova,1
+1,Nova Descoberta,8
+2,Petrópolis,4
+3,Ribeira,2
+4,Santos Reis,1
+5,Tirol,16
+0,,20
+1,Nova Descoberta,2
+2,Petrópolis,1
+3,Tirol,9
+0,,19
+1,Lagoa Nova,1
+2,Nova Descoberta,5
+3,Ribeira,1
+4,Tirol,6
+0,Lagoa Nova,1
+1,Nova Descoberta,13
+2,Petrópolis,2
+3,Ribeira,3
+4,Tirol,13
+0,,17
+1,Lagoa Nova,1
+2,Nova Descoberta,3
+3,Ribeira,2
+4,Tirol,9
+0,,24
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+3,Ribeira,1
+4,Santos Reis,2
+5,Tirol,3
+0,Lagoa Nova,1
+1,Nova Descoberta,8
+2,Ribeira,4
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,17
+0,,12
+1,Cidade Alta,1
+2,Lagoa Nova,3
+3,Nova Descoberta,6
+4,Rocas,1
+5,Tirol,9
+0,,31
+1,Nova Descoberta,1
+0,Lagoa Nova,1
+1,Nova Descoberta,14
+2,Ribeira,4
+3,Tirol,13
+0,,5
+1,Lagoa Nova,2
+2,Nova Descoberta,10
+3,Petrópolis,1
+4,Ribeira,1
+5,Tirol,13
+0,,30
+1,Nova Descoberta,1
+2,Petrópolis,1
+0,Lagoa Nova,2
+1,Nova Descoberta,12
+2,Petrópolis,4
+3,Rocas,1
+4,Tirol,13
+0,,6
+1,Lagoa Nova,1
+2,Nova Descoberta,7
+3,Petrópolis,1
+4,Ribeira,2
+5,Rocas,2
+6,Tirol,13
+0,,8
+1,Lagoa Nova,3
+2,Nova Descoberta,7
+3,Petrópolis,2
+4,Ribeira,4
+5,Rocas,1
+6,Tirol,7
+0,Lagoa Nova,1
+1,Nova Descoberta,8
+2,Ribeira,3
+3,Rocas,3
+4,Santos Reis,2
+5,Tirol,15
+0,,7
+1,Lagoa Nova,3
+2,Nova Descoberta,5
+3,Petrópolis,2
+4,Ribeira,4
+5,Tirol,11
+0,Lagoa Nova,1
+1,Nova Descoberta,9
+2,Petrópolis,2
+3,Ribeira,2
+4,Rocas,1
+5,Tirol,17
+0,,25
+1,Nova Descoberta,2
+2,Ribeira,3
+3,Tirol,2
+0,,6
+1,Lagoa Nova,2
+2,Nova Descoberta,7
+3,Ribeira,2
+4,Rocas,1
+5,Tirol,14
+0,Lagoa Nova,6
+1,Nova Descoberta,9
+2,Ribeira,4
+3,Rocas,1
+4,Santos Reis,1
+5,Tirol,11
+0,,29
+1,Lagoa Nova,1
+2,Ribeira,1
+3,Tirol,1
+0,Nova Descoberta,9
+1,Petrópolis,1
+2,Ribeira,6
+3,Santos Reis,1
+4,Tirol,15
+0,,5
+1,Lagoa Nova,2
+2,Nova Descoberta,7
+3,Ribeira,3
+4,Tirol,15
+0,,31
+1,Nova Descoberta,1
+0,Lagoa Nova,2
+1,Nova Descoberta,12
+2,Petrópolis,3
+3,Tirol,15
+0,,5
+1,Lagoa Nova,1
+2,Nova Descoberta,5
+3,Petrópolis,1
+4,Ribeira,4
+5,Rocas,2
+6,Tirol,14
+0,,32
+0,,3
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Petrópolis,1
+4,Ribeira,4
+5,Rocas,1
+6,Santos Reis,1
+7,Tirol,15
+0,,1
+1,Nova Descoberta,6
+2,Petrópolis,4
+3,Ribeira,2
+4,Tirol,19
+0,,32
+0,,8
+1,Lagoa Nova,2
+2,Nova Descoberta,11
+3,Petrópolis,1
+4,Ribeira,1
+5,Tirol,9
+0,Lagoa Nova,1
+1,Nova Descoberta,7
+2,Petrópolis,1
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,18
+0,,28
+1,Tirol,4
+0,,8
+1,Cidade Alta,1
+2,Lagoa Nova,1
+3,Nova Descoberta,3
+4,Ribeira,5
+5,Tirol,14
+0,Cidade Alta,1
+1,Lagoa Nova,4
+2,Nova Descoberta,8
+3,Petrópolis,2
+4,Ribeira,5
+5,Santos Reis,1
+6,Tirol,11
+0,,28
+1,Nova Descoberta,2
+2,Tirol,2
+0,,15
+1,Lagoa Nova,2
+2,Nova Descoberta,4
+3,Ribeira,2
+4,Rocas,1
+5,Tirol,8
+0,Lagoa Nova,2
+1,Nova Descoberta,10
+2,Petrópolis,4
+3,Ribeira,2
+4,Tirol,14
+0,,21
+1,Nova Descoberta,5
+2,Ribeira,2
+3,Tirol,4
+0,,17
+1,Nova Descoberta,5
+2,Ribeira,2
+3,Tirol,8
+0,Lagoa Nova,1
+1,Nova Descoberta,10
+2,Petrópolis,1
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,15
+0,,19
+1,Cidade Alta,1
+2,Nova Descoberta,7
+3,Ribeira,1
+4,Tirol,4
+0,,21
+1,Lagoa Nova,4
+2,Nova Descoberta,1
+3,Petrópolis,1
+4,Ribeira,1
+5,Tirol,4
+0,Cidade Alta,3
+1,Lagoa Nova,4
+2,Nova Descoberta,5
+3,Petrópolis,3
+4,Ribeira,4
+5,Santos Reis,1
+6,Tirol,12
+0,,15
+1,Lagoa Nova,2
+2,Nova Descoberta,3
+3,Petrópolis,2
+4,Ribeira,4
+5,Tirol,6
+0,,25
+1,Nova Descoberta,2
+2,Tirol,5
+0,Lagoa Nova,4
+1,Nova Descoberta,11
+2,Petrópolis,3
+3,Ribeira,4
+4,Tirol,10
+0,,11
+1,Cidade Alta,1
+2,Lagoa Nova,2
+3,Nova Descoberta,6
+4,Petrópolis,1
+5,Ribeira,2
+6,Santos Reis,1
+7,Tirol,8
+0,,32
+0,,1
+1,Cidade Alta,1
+2,Lagoa Nova,3
+3,Nova Descoberta,5
+4,Petrópolis,1
+5,Ribeira,4
+6,Santos Reis,1
+7,Tirol,16
+0,,3
+1,Lagoa Nova,5
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,3
+5,Tirol,13
+0,,32
+0,,9
+1,Lagoa Nova,4
+2,Nova Descoberta,2
+3,Ribeira,6
+4,Santos Reis,1
+5,Tirol,10
+0,Lagoa Nova,7
+1,Nova Descoberta,6
+2,Petrópolis,1
+3,Ribeira,4
+4,Rocas,1
+5,Tirol,13
+0,,27
+1,Nova Descoberta,2
+2,Ribeira,1
+3,Tirol,2
+0,,17
+1,Lagoa Nova,2
+2,Nova Descoberta,3
+3,Petrópolis,1
+4,Ribeira,3
+5,Tirol,6
+0,Lagoa Nova,3
+1,Nova Descoberta,7
+2,Petrópolis,4
+3,Ribeira,3
+4,Tirol,15
+0,,19
+1,Lagoa Nova,1
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Santos Reis,1
+5,Tirol,8
+0,,24
+1,Lagoa Nova,2
+2,Nova Descoberta,1
+3,Tirol,5
+0,Lagoa Nova,7
+1,Nova Descoberta,7
+2,Petrópolis,2
+3,Ribeira,4
+4,Tirol,12
+0,,12
+1,Lagoa Nova,3
+2,Nova Descoberta,4
+3,Petrópolis,3
+4,Ribeira,3
+5,Tirol,7
+0,,26
+1,Ribeira,1
+2,Tirol,5
+0,Lagoa Nova,6
+1,Nova Descoberta,6
+2,Petrópolis,2
+3,Ribeira,3
+4,Santos Reis,2
+5,Tirol,13
+0,,10
+1,Lagoa Nova,3
+2,Nova Descoberta,8
+3,Ribeira,3
+4,Santos Reis,1
+5,Tirol,7
+0,,31
+1,Tirol,1
+0,Lagoa Nova,4
+1,Nova Descoberta,8
+2,Petrópolis,1
+3,Ribeira,5
+4,Tirol,14
+0,,5
+1,Capim Macio,1
+2,Lagoa Nova,1
+3,Nova Descoberta,7
+4,Petrópolis,4
+5,Ribeira,1
+6,Tirol,13
+0,,29
+1,Nova Descoberta,1
+2,Petrópolis,1
+3,Tirol,1
+0,Lagoa Nova,4
+1,Nova Descoberta,3
+2,Ribeira,5
+3,Santos Reis,1
+4,Tirol,19
+0,,7
+1,Cidade Alta,1
+2,Lagoa Nova,4
+3,Nova Descoberta,3
+4,Petrópolis,1
+5,Ribeira,4
+6,Santos Reis,2
+7,Tirol,10
+0,,32
+0,,3
+1,Lagoa Nova,4
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,4
+5,Santos Reis,1
+6,Tirol,12
+0,,1
+1,Lagoa Nova,6
+2,Nova Descoberta,4
+3,Ribeira,5
+4,Rocas,1
+5,Tirol,15
+0,,32
+0,,6
+1,Lagoa Nova,6
+2,Nova Descoberta,3
+3,Petrópolis,2
+4,Ribeira,6
+5,Santos Reis,1
+6,Tirol,8
+0,Lagoa Nova,5
+1,Nova Descoberta,6
+2,Petrópolis,4
+3,Ribeira,1
+4,Santos Reis,1
+5,Tirol,15
+0,,30
+1,Nova Descoberta,2
+0,,5
+1,Lagoa Nova,3
+2,Nova Descoberta,7
+3,Petrópolis,2
+4,Ribeira,3
+5,Santos Reis,1
+6,Tirol,11
+0,Lagoa Nova,4
+1,Nova Descoberta,3
+2,Petrópolis,2
+3,Ribeira,5
+4,Tirol,18
+0,,31
+1,Tirol,1
+0,,14
+1,Nova Descoberta,4
+2,Ribeira,3
+3,Santos Reis,1
+4,Tirol,10
+0,Lagoa Nova,3
+1,Nova Descoberta,6
+2,Petrópolis,1
+3,Ribeira,6
+4,Santos Reis,1
+5,Tirol,15
+0,,22
+1,Lagoa Nova,3
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Tirol,4
+0,,19
+1,Lagoa Nova,1
+2,Nova Descoberta,5
+3,Petrópolis,1
+4,Ribeira,1
+5,Tirol,5
+0,Lagoa Nova,5
+1,Nova Descoberta,4
+2,Petrópolis,3
+3,Ribeira,4
+4,Tirol,16
+0,,17
+1,Lagoa Nova,2
+2,Nova Descoberta,3
+3,Ribeira,4
+4,Tirol,6
+0,,23
+1,Lagoa Nova,1
+2,Nova Descoberta,2
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,3
+0,Lagoa Nova,2
+1,Nova Descoberta,8
+2,Petrópolis,3
+3,Ribeira,2
+4,Santos Reis,1
+5,Tirol,16
+0,,13
+1,Capim Macio,1
+2,Lagoa Nova,1
+3,Nova Descoberta,2
+4,Petrópolis,1
+5,Ribeira,7
+6,Tirol,7
+0,,30
+1,Lagoa Nova,1
+2,Nova Descoberta,1
+0,Lagoa Nova,6
+1,Nova Descoberta,2
+2,Petrópolis,1
+3,Ribeira,4
+4,Tirol,19
+0,,6
+1,Lagoa Nova,9
+2,Nova Descoberta,6
+3,Ribeira,1
+4,Tirol,10
+0,,32
+0,,4
+1,Lagoa Nova,1
+2,Nova Descoberta,7
+3,Petrópolis,4
+4,Ribeira,3
+5,Santos Reis,1
+6,Tirol,12
+0,Lagoa Nova,3
+1,Nova Descoberta,10
+2,Ribeira,4
+3,Santos Reis,1
+4,Tirol,14
+0,,9
+1,Lagoa Nova,2
+2,Nova Descoberta,6
+3,Petrópolis,1
+4,Ribeira,3
+5,Santos Reis,1
+6,Tirol,10
+0,Lagoa Nova,4
+1,Nova Descoberta,2
+2,Petrópolis,4
+3,Ribeira,5
+4,Santos Reis,1
+5,Tirol,16
+0,,18
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,3
+0,Lagoa Nova,2
+1,Nova Descoberta,7
+2,Petrópolis,4
+3,Tirol,19
+0,,13
+1,Lagoa Nova,3
+2,Nova Descoberta,7
+3,Ribeira,2
+4,Tirol,7
+0,,5
+1,Lagoa Nova,6
+2,Nova Descoberta,5
+3,Ribeira,2
+4,Tirol,14
+0,Lagoa Nova,4
+1,Nova Descoberta,11
+2,Petrópolis,3
+3,Ribeira,1
+4,Tirol,13
+0,,22
+1,Nova Descoberta,2
+2,Petrópolis,1
+3,Tirol,7
+0,Lagoa Nova,4
+1,Nova Descoberta,8
+2,Petrópolis,1
+3,Ribeira,3
+4,Tirol,16
+0,,13
+1,Nova Descoberta,6
+2,Ribeira,1
+3,Tirol,12
+0,,11
+1,Lagoa Nova,1
+2,Nova Descoberta,10
+3,Petrópolis,1
+4,Ribeira,2
+5,Tirol,7
+0,Lagoa Nova,4
+1,Nova Descoberta,9
+2,Petrópolis,4
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,10
+0,,24
+1,Lagoa Nova,2
+2,Ribeira,2
+3,Tirol,4
+0,Capim Macio,1
+1,Lagoa Nova,3
+2,Nova Descoberta,12
+3,Petrópolis,2
+4,Ribeira,1
+5,Santos Reis,1
+6,Tirol,12
+0,Lagoa Nova,3
+1,Nova Descoberta,7
+2,Petrópolis,1
+3,Ribeira,4
+4,Santos Reis,1
+5,Tirol,16
+0,Lagoa Nova,6
+1,Nova Descoberta,8
+2,Petrópolis,1
+3,Ribeira,3
+4,Tirol,14
+0,Lagoa Nova,2
+1,Nova Descoberta,10
+2,Petrópolis,2
+3,Ribeira,4
+4,Tirol,14
+0,Cidade Alta,1
+1,Lagoa Nova,3
+2,Nova Descoberta,3
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,21
+0,Lagoa Nova,2
+1,Nova Descoberta,14
+2,Petrópolis,2
+3,Ribeira,1
+4,Tirol,13
+0,Lagoa Nova,3
+1,Nova Descoberta,15
+2,Ribeira,4
+3,Santos Reis,1
+4,Tirol,9
+0,Lagoa Nova,1
+1,Nova Descoberta,14
+2,Petrópolis,2
+3,Ribeira,1
+4,Tirol,14
+0,Nova Descoberta,18
+1,Petrópolis,1
+2,Ribeira,3
+3,Tirol,10
+0,Lagoa Nova,1
+1,Nova Descoberta,12
+2,Ribeira,4
+3,Tirol,15
+0,Nova Descoberta,16
+1,Petrópolis,1
+2,Ribeira,2
+3,Tirol,13
+0,Nova Descoberta,13
+1,Petrópolis,3
+2,Tirol,16
+0,Lagoa Nova,4
+1,Nova Descoberta,11
+2,Petrópolis,1
+3,Tirol,16
+0,Lagoa Nova,2
+1,Nova Descoberta,9
+2,Petrópolis,2
+3,Ribeira,4
+4,Tirol,15
+0,,17
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Ribeira,1
+4,Tirol,7
+0,,6
+1,Nova Descoberta,18
+2,Petrópolis,2
+3,Ribeira,2
+4,Tirol,4
+0,Lagoa Nova,2
+1,Nova Descoberta,12
+2,Petrópolis,2
+3,Ribeira,2
+4,Tirol,14
+0,,30
+1,Tirol,2
+0,,9
+1,Lagoa Nova,2
+2,Nova Descoberta,9
+3,Petrópolis,3
+4,Tirol,9
+0,Capim Macio,1
+1,Lagoa Nova,2
+2,Nova Descoberta,15
+3,Ribeira,2
+4,Tirol,12
+0,,27
+1,Nova Descoberta,1
+2,Tirol,4
+0,,11
+1,Lagoa Nova,4
+2,Nova Descoberta,6
+3,Ribeira,3
+4,Tirol,8
+0,Lagoa Nova,2
+1,Nova Descoberta,10
+2,Petrópolis,1
+3,Tirol,19
+0,,25
+1,Nova Descoberta,2
+2,Santos Reis,1
+3,Tirol,4
+0,,21
+1,Lagoa Nova,1
+2,Nova Descoberta,9
+3,Tirol,1
+0,Lagoa Nova,1
+1,Nova Descoberta,11
+2,Petrópolis,1
+3,Ribeira,6
+4,Santos Reis,1
+5,Tirol,12
+0,,15
+1,Nova Descoberta,11
+2,Ribeira,1
+3,Tirol,5
+0,,31
+1,Tirol,1
+0,Lagoa Nova,2
+1,Nova Descoberta,8
+2,Petrópolis,1
+3,Ribeira,4
+4,Tirol,17
+0,,5
+1,Lagoa Nova,1
+2,Nova Descoberta,10
+3,Petrópolis,2
+4,Ribeira,2
+5,Tirol,12
+0,,32
+0,,18
+1,Lagoa Nova,1
+2,Nova Descoberta,6
+3,Tirol,7
+0,,32
+0,,32
+0,,31
+1,Tirol,1
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
+0,,32
